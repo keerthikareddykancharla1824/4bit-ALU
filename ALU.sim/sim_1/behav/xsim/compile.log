@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rguktrkvalley/Desktop/ALU/ALU.srcs/sources_1/new/fourbitalu.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module alu_4bit
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rguktrkvalley/Desktop/ALU/ALU.srcs/sim_1/new/fourbitalu_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module alu_4bit_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "/home/rguktrkvalley/Desktop/ALU/ALU.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl
